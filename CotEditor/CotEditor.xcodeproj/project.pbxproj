@@ -3273,7 +3273,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "CotEditor -AppStore.entitlements";
 				CODE_SIGN_IDENTITY = "Mac Developer";
-				DEVELOPMENT_TEAM = HT3Z3A72WZ;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = "CotEditor -AppStore-Info.plist";
 				OTHER_SWIFT_FLAGS = "$(inherited) -D APPSTORE";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.coteditor.$(PRODUCT_NAME)";
@@ -3287,7 +3287,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "CotEditor -AppStore.entitlements";
 				CODE_SIGN_IDENTITY = "Mac Developer";
-				DEVELOPMENT_TEAM = HT3Z3A72WZ;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = "CotEditor -AppStore-Info.plist";
 				OTHER_SWIFT_FLAGS = "$(inherited) -D APPSTORE";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.coteditor.$(PRODUCT_NAME)";
@@ -3300,7 +3300,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_IDENTITY = "Mac Developer";
-				DEVELOPMENT_TEAM = HT3Z3A72WZ;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = ../Tests/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.coteditor.CotEditorTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -3313,7 +3313,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_IDENTITY = "Mac Developer";
-				DEVELOPMENT_TEAM = HT3Z3A72WZ;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = ../Tests/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.coteditor.CotEditorTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -3327,7 +3327,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = CotEditor.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = "CotEditor-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = meirav.com.coteditor.CotEditor;
 				PRODUCT_NAME = CotEditor;
@@ -3340,7 +3340,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = CotEditor.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				INFOPLIST_FILE = "CotEditor-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = meirav.com.coteditor.CotEditor;
 				PRODUCT_NAME = CotEditor;
